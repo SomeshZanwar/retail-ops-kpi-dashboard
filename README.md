@@ -64,7 +64,6 @@ Executive overview includes:
 - Revenue & Orders trend
 - Revenue by Department
 - Top Products
-- Customer Activity trend
 
 Screenshot located in:
 dashboard/screenshots/dashboard_overview.png
@@ -78,7 +77,3 @@ dashboard/screenshots/dashboard_overview.png
 - Revenue directional only.
 
 ---
-
-## Status
-
-Complete and production-ready.
