@@ -1,0 +1,12 @@
+# Raw data
+data_raw/
+
+# CSV files
+*.csv
+
+# Power BI files
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
