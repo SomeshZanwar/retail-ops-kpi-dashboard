@@ -46,14 +46,15 @@ dim_customer
 
 ---
 
-## QA Layer
+## QA Layer (SQL-Based Data Integrity Suite)
 
-- Grain enforcement
-- Null checks
-- Orphan detection
-- Revenue reconciliation
-- Outlier detection
+Implemented validation checks to enforce:
 
+• Fact grain consistency (1 row per order_id, product_id)
+• Foreign key integrity across dimensions
+• Revenue reconciliation logic
+• Outlier detection on basket distribution
+• Null key prevention
 ---
 
 ## Dashboard
